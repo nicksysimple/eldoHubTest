@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eldoHubTest/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/eldoHubTest/static/js/main.b89b29e8.chunk.js",
+    "main.js.map": "/eldoHubTest/static/js/main.b89b29e8.chunk.js.map",
+    "runtime-main.js": "/eldoHubTest/static/js/runtime-main.e97cf9da.js",
+    "runtime-main.js.map": "/eldoHubTest/static/js/runtime-main.e97cf9da.js.map",
+    "static/js/2.bca5b3d1.chunk.js": "/eldoHubTest/static/js/2.bca5b3d1.chunk.js",
+    "static/js/2.bca5b3d1.chunk.js.map": "/eldoHubTest/static/js/2.bca5b3d1.chunk.js.map",
+    "static/js/3.a8ec0577.chunk.js": "/eldoHubTest/static/js/3.a8ec0577.chunk.js",
+    "static/js/3.a8ec0577.chunk.js.map": "/eldoHubTest/static/js/3.a8ec0577.chunk.js.map",
+    "index.html": "/eldoHubTest/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/eldoHubTest/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.bca5b3d1.chunk.js.LICENSE.txt": "/eldoHubTest/static/js/2.bca5b3d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e97cf9da.js",
+    "static/js/2.bca5b3d1.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.b89b29e8.chunk.js"
+  ]
+}
